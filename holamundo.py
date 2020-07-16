@@ -1,5 +1,5 @@
 #Autor: Gonzalete Sandoval Quispe
 def saludo ():
-    print("Hola mundo")
+    print("Hola mundo hola")
     
 saludo()
